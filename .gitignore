@@ -3,3 +3,4 @@ nRF5_SDK_12.3.0/components/toolchain/cmsis/dsp/GCC/libarm_cortexM4l_math.a
 nRF5_SDK_12.3.0/components/toolchain/cmsis/dsp/ARM/arm_cortexM4lf_math.lib
 nRF5_SDK_12.3.0/components/toolchain/cmsis/dsp/ARM/arm_cortexM4l_math.lib
 nRF5_SDK_12.3.0/external/fatfs/
+_build/
